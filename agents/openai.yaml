@@ -1,0 +1,3 @@
+display_name: DeepSeek Image OCR
+short_description: OCR bridge for DeepSeek vision tasks.
+default_prompt: Analyze this image with OCR, summarize visible text and layout, then answer my question using DeepSeek or a compatible text model.
